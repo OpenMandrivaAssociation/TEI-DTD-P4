@@ -17,7 +17,6 @@ Provides: 	TEI-DTD
 Requires(Pre): 	fileutils
 Requires(Pre):	sgml-common >= 0.6.3-2mdk
 
-BuildRoot   	: %{_tmppath}/%{name}-buildroot
 
 # Zip file downloadable at http://www.tei-c.org/P4X/DTD/dtd.zip
 Source0		: %{name}.tar.bz2
