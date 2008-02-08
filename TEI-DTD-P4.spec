@@ -14,7 +14,7 @@ License   	: Artistic like
 URL         	: http://www.tei-c.org/
 
 Provides: 	TEI-DTD
-Requires(Pre): 	fileutils
+Requires(Pre): 	coreutils
 Requires(Pre):	sgml-common >= 0.6.3-2mdk
 
 BuildRoot   	: %{_tmppath}/%{name}-buildroot
