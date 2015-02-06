@@ -1,6 +1,6 @@
 %define name TEI-DTD-P4
 %define version 1.0
-%define release 11
+%define release 12
 %define dtdver P4
 
 Name: %{name}
